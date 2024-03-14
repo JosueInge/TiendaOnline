@@ -5,7 +5,7 @@
 
     <TextView
         android:id="@+id/lblCodigo"
-        android:text="nombre"
+        android:text="Codigo"
         android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"/>
     <TextView
         android:id="@+id/lblDescripcion"
-        android:text="telefono"
+        android:text="Descripcion"
         android:textColor="@color/black"
         android:layout_marginTop="40dp"
         android:layout_marginLeft="20dp"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"/>
     <TextView
         android:id="@+id/lblPrecio"
-        android:text="email"
+        android:text="Precio"
         android:textColor="@color/black"
         android:layout_marginTop="40dp"
         android:layout_marginLeft="150dp"
